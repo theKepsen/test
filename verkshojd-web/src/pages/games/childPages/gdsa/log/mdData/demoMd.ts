@@ -102,14 +102,11 @@ export const DemoTasksMd = `
   - [✅] Disable 2 Player
   - [✅] Connection Sound
   - [ ] Feel
-- [ ] In Game Menu
-  - [ ] Settings
-  - [ ] Retry
-  - [ ] Main Menu
+- [✅] In Game Menu
 - [ ] Menu
   - [✅] Demo Menu
   - [ ] Settings Menu
-    - [ ] Keyboard Controls
+    - [✅] Keyboard Controls
     - [ ] Music / SFX Volume Sliders
     - [✅] Hide 2 Player
 
@@ -208,12 +205,12 @@ export const DemoTasksArtMd = `
 
 - [ ] Color Pallet
 - [ ] Font
-  - [ ] Font V2
+  - [✅] Font V2
   - [ ] Font V3
   - [ ] Colors
 - [ ] Logo
-  - [ ] Game
-  - [ ] Studio
+  - [✅] Game Logo V1
+  - [✅] Studio Logo V1
 - ⚠️[ ] Layout _(Color Pallet)_
   - ⚠️[ ] Splash Screen _(Logos)_
   - [ ] Menus
@@ -226,9 +223,9 @@ export const DemoTasksArtMd = `
   - [ ] Level Clear
   - ⚠️[ ] High Score Entry _(Scoring System)_
 - [ ] In Game Overlay
-- [ ] In Game Menu
+- [✅] In Game Menu
 - [ ] Settings Menu
-  - ⚠️[ ] Keyboard Controls _(Logic)_
+  - [✅] Keyboard Controls 
   - ⚠️[ ] Music / SFX Volume Sliders _(Logic)_
 
 ### **[ ] Sound** 🔊
@@ -352,22 +349,22 @@ export const playTestDemoMd = `
 ### **Game UI V1** 💻
 
 - [ ] Color Pallet
-- [ ] Font V2
+- [✅] Font V2
   - [ ] Colors
-- [ ] Logo V1
-  - [ ] Game
-  - [ ] Studio
+- [✅] Logo V1
+  - [✅] Game
+  - [✅] Studio
 - ⚠️[ ] Layout _(Color Pallet)_
   - ⚠️[ ] Splash Screen _(Logos)_
   - [ ] Menus
-    - [ ] Start (Demo)
+    - [✅] Start (Demo)
     - [ ] Settings
   - [ ] Game Over
   - [ ] Level Clear
 - [ ] In Game Overlay
-- [ ] In Game Menu
-- [ ] Settings Menu
-  - [ ] Keyboard Controls
+- [✅] In Game Menu
+- [✅] Settings Menu
+  - [✅] Keyboard Controls
 
 ### **Sound** 🔊
 
