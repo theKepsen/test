@@ -1,30 +1,13 @@
 export const UpcomingReleasesMd = `
 ### In Progress
 
-**Alpha 0.7.2** : _Planned end of Apr / early May 2026_
-- [ ] Boss A Update
-- [ ] Menu layout update
-- [ ] Level C Background Concept Start
-- ? _[ ] Snake Rework_
-- ? _[ ] Game Over Screen_
-- ? _[ ] Level Clear Screen_
-- Art / Animation V1 
-  - Enemy Shots
-    - [ ] Main Shot
-    - [ ] Aimed Shot
-  - [ ] Player Shots
-  - ? _Damage / Hit Indication_
-    - ? _[ ] Boss_
-    - ? _[ ] Drone_
-    - ? _[ ] Solid Objects_
-- ? _[ ] Level C Improvements_
-  
+**Alpha 0.7.3** : _Planned TBD_
+  - [ ] ...
   
 ### ____________________________
 ### Planned
 
-**Alpha 0.7.3** : _Planned TBD_
-  - [ ] Select Boss for Demo
+**Alpha 0.7.4** : _Planned TBD_
   - [ ] ...
 
  **Alpha 0.8** : _Planned TBD_
@@ -33,14 +16,15 @@ export const UpcomingReleasesMd = `
 `;
 
 export const LatestReleaseMd = `
-**Alpha 0.7.1** : _Apr 3de 2026_
-  - UI Updates
-    - Font V2
-    - Logos V1
-    - Settings Menu
-       - Keyboard Controls
-    - In Game Menu
-    - Menu layout
+**Alpha 0.7.2** : _May 23de 2026_
+- Boss A minor update
+- Menu layout update
+- Level C Background Concept Start
+- Art and Size
+  - Enemy Bullets
+    - Main Bullet
+    - Aimed Bullet
+   - Player Bullets
 `;
 
 export const ReleasesMd = `
@@ -49,6 +33,15 @@ export const ReleasesMd = `
 ${LatestReleaseMd}
 
 ### ____________________________
+
+**Alpha 0.7.1** : _Apr 3de 2026_
+  - UI Updates
+    - Font V2
+    - Logos V1
+    - Settings Menu
+       - Keyboard Controls
+    - In Game Menu
+    - Menu layout
 
 **Alpha 0.7** : _Mar 22th 2026_
   - Level C Update
